@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @296452965
+- 👋 Hi, I’m @Yik Chen
 - 👀 I’m interested in web-develop, crawler, data-analysis, ML.
 - 🌱 I’m currently learning web-develop, ML.
 - 💞️ I’m looking to collaborate on ...
